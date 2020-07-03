@@ -1,0 +1,30 @@
+.navbar{
+    border-bottom:1px solid rgb(26, 42, 133);
+}
+.nav-link{
+    color: #fff;
+   
+}
+
+#header{
+    margin-top:80px;
+}
+
+.main{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.table{
+    margin-bottom:0;
+}
+
+#footer{
+    height:100px;
+
+}
+
+
+.wrapp{
+    border:2px solid red;
+}
